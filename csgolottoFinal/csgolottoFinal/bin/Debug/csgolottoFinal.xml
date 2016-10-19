@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+csgolottoFinal
+</name>
+</assembly>
+<members>
+<member name="P:csgolottoFinal.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources._37665874_cartoon_cash">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources._81bc6d8e8bf24da541a84ef64044d0b0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.csgoLottoFullPage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.csgoLottoFullPage1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.DUEL_ARENA_BUTTON3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.DuelArenaFullPage3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.H8SqWsh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.NICK_AT_NIGHT">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.NICKCARTOONS2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.NICKCARTOONS3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.NICKCARTOONS4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.NICKCARTOONS5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.NICKCARTOONS6">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.NICKTOONS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.photo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.Racecar_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.RaceCar2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.RACECARBUTTON2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.sadadasd2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.scissors">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.SignInThroughSteam">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.signintwithsteamo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:csgolottoFinal.My.Resources.Resources.xit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:csgolottoFinal.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
